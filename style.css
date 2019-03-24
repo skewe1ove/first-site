@@ -1,0 +1,53 @@
+body {
+    background: rgb(0,0,0);
+    color: rgb(255,255,255);
+    font-family: Calibri, sans-serif;
+    font-weight: bold;
+    font-size: 18px;
+    font-style: italic;
+    text-transform: capitalize;
+  }
+  
+  a RRRR
+    color: yellow;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+    color: red;
+  }
+  
+  p {
+    line-height: 1.5;
+    letter-spacing: 0.5px;
+    word-spacing: 5px;
+    text-align: left;
+    text-indent: 50px;
+  }
+  
+  p:first-line {
+    text-transform: uppercase;
+  }
+  
+  p:first-letter {
+    color: red;
+    font-size: 30px;
+  }
+  
+  a:visited {
+    color: green;
+  }
+  
+  ul {
+    list-style-type: circle;
+  }
+  
+  ol {
+    list-style-type: decimal-leading-zero;
+  }                                                
+  body{
+    background-image:
+  url(http://pm1.narvii.com/7062/851b57f4bf4d119158dd414f5ac16879b4f8b287r5-1280-720_00.jpg);
+      background-color: #800000;
+  }
